@@ -1,0 +1,39 @@
+Camera Fx Android.
+
+Version 1.0
+Required by Google play.
+
+Privacy Policy
+This Application collects some Personal Data from its Users.
+
+Personal Data collected for the following purposes and using the following services:
+
+Device permissions for Personal Data access
+
+Personal Data: Camera permission, Microphone permission, Wake Lock permission and Storage permission for recording and saving videos.
+
+All Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. 
+
+Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
+By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
+
+The exact procedure for controlling app permissions may be dependent on the User's device and software.
+
+Please note that the revoking of such permissions might impact the proper functioning of this Application.
+
+If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
+
+Camera permission
+Used for accessing the camera or capturing images and video from the device.
+
+Microphone permission
+Used for accessing and recording microphone audio from the User's device.
+
+Wake Lock permission
+Used to keep phone in wake mode while using the app.
+
+Storage permission
+Used for accessing shared external storage, including the reading and adding of any items.
+
+
+Monday, December 11, 2017
